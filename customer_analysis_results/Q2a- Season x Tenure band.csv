@@ -1,0 +1,13 @@
+Season,tenure_band,customer_count,avg_spend,promo_rate_pct,avg_rating
+Fall,"High Tenure (>25)",464,60.89,43.5,3.73
+Fall,"Low Tenure  (<=10)",203,62.56,38.9,3.8
+Fall,"Mid Tenure  (11-25)",308,61.90,37.7,3.693
+Spring,"High Tenure (>25)",479,59.34,43.8,3.776
+Spring,"Low Tenure  (<=10)",191,59.95,37.7,3.809
+Spring,"Mid Tenure  (11-25)",329,57.16,48.0,3.796
+Summer,"High Tenure (>25)",496,58.95,43.8,3.763
+Summer,"Low Tenure  (<=10)",204,59.34,40.7,3.696
+Summer,"Mid Tenure  (11-25)",255,56.60,48.2,3.684
+Winter,"High Tenure (>25)",496,60.58,40.9,3.743
+Winter,"Low Tenure  (<=10)",186,60.80,44.6,3.811
+Winter,"Mid Tenure  (11-25)",289,59.69,45.3,3.726

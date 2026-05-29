@@ -1,0 +1,29 @@
+Category,"Frequency of Purchases",customer_count,avg_spend,avg_prev_purchases,avg_rating,subscription_rate_pct
+Clothing,Weekly,30,35.50,35.77,3.797,63.3
+Clothing,"Every 3 Months",27,39.48,39.19,3.667,66.7
+Clothing,Fortnightly,26,35.85,36.96,3.781,61.5
+Accessories,Fortnightly,25,38.92,37.24,3.872,60.0
+Clothing,Annually,25,40.36,36.76,3.704,76.0
+Clothing,Monthly,24,42.00,36.54,3.496,62.5
+Accessories,Quarterly,23,36.00,38.65,3.583,52.2
+Clothing,Quarterly,23,40.13,35.91,3.578,43.5
+Clothing,Bi-Weekly,23,35.00,38.74,3.739,91.3
+Accessories,Annually,23,42.61,37.83,3.587,65.2
+Accessories,Weekly,22,43.27,39.86,3.75,59.1
+Accessories,Monthly,20,39.30,38.65,3.735,75.0
+Accessories,"Every 3 Months",19,36.21,37.21,3.774,47.4
+Accessories,Bi-Weekly,17,31.59,38.18,3.747,70.6
+Footwear,Fortnightly,15,40.40,38.80,3.893,73.3
+Outerwear,Monthly,12,33.33,37.83,3.483,66.7
+Footwear,Quarterly,11,38.18,38.00,3.482,81.8
+Outerwear,Weekly,10,42.90,36.70,3.91,70.0
+Footwear,Monthly,10,37.40,32.50,3.58,80.0
+Footwear,Weekly,9,45.22,35.22,3.978,77.8
+Footwear,Annually,9,36.11,36.78,3.978,88.9
+Footwear,"Every 3 Months",9,40.22,35.56,3.578,77.8
+Outerwear,"Every 3 Months",7,34.71,36.57,3.857,57.1
+Outerwear,Quarterly,7,38.00,34.00,3.3,28.6
+Outerwear,Annually,6,34.50,46.00,3.367,50.0
+Outerwear,Bi-Weekly,5,39.40,41.40,3.3,80.0
+Footwear,Bi-Weekly,4,42.50,36.50,3.875,75.0
+Outerwear,Fortnightly,2,43.00,31.50,3.3,100.0

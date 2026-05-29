@@ -1,0 +1,5 @@
+profile,customer_count,avg_prev_purchases,avg_spend,promo_rate_pct,discount_dep_pct
+"Loyal + High Value",237,37.59,80.72,0.0,0.0
+"Loyal + Low Value",905,37.12,55.58,0.0,0.0
+"Not Loyal + High Value",582,20.82,79.67,61.7,0.0
+"Not Loyal + Low Value",2176,20.33,53.90,60.6,38.5

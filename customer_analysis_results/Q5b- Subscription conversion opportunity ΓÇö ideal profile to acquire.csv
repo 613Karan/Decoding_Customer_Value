@@ -1,0 +1,13 @@
+age_group,Gender,Category,customer_count,avg_spend,avg_prev_purchases,promo_rate_pct,avg_rating
+56-70,Male,Clothing,44,56.25,38.27,36.4,3.861
+56-70,Female,Clothing,27,64.11,35.74,0.0,3.663
+56-70,Male,Accessories,26,61.85,39.88,53.8,3.865
+36-45,Male,Clothing,25,62.76,37.28,44.0,3.948
+26-35,Male,Accessories,23,57.09,38.09,56.5,3.748
+26-35,Female,Clothing,23,65.22,38.57,0.0,4.335
+46-55,Female,Clothing,22,52.14,38.05,0.0,3.991
+46-55,Male,Clothing,21,65.19,35.90,23.8,4.057
+56-70,Female,Accessories,21,61.10,38.14,0.0,3.848
+26-35,Male,Clothing,20,57.85,35.75,25.0,3.925
+46-55,Male,Accessories,19,66.84,36.00,31.6,4.016
+36-45,Male,Accessories,18,60.72,38.56,27.8,3.867

@@ -1,0 +1,3 @@
+value_tier,customer_count,avg_spend,avg_prev_purchases,promo_rate_pct,subscription_rate_pct,avg_rating,loyalty_A_rate_pct,discount_dep_rate_pct
+1,819,79.97,25.68,43.8,28.2,3.731,28.9,0.0
+0,3081,54.39,25.27,42.8,26.7,3.756,29.4,27.2

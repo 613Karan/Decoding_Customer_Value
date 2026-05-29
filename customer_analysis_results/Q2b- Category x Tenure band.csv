@@ -1,0 +1,13 @@
+Category,tenure_band,customer_count,avg_spend,promo_rate_pct,discount_dep_pct
+Accessories,"High Tenure (>25)",627,59.26,44.2,23.3
+Accessories,"Low Tenure  (<=10)",242,62.63,41.3,20.7
+Accessories,"Mid Tenure  (11-25)",371,58.99,44.7,24.3
+Clothing,"High Tenure (>25)",853,60.83,40.8,19.5
+Clothing,"Low Tenure  (<=10)",348,59.66,40.8,20.1
+Clothing,"Mid Tenure  (11-25)",536,58.97,45.0,21.8
+Footwear,"High Tenure (>25)",297,60.38,44.4,21.9
+Footwear,"Low Tenure  (<=10)",119,60.39,39.5,19.3
+Footwear,"Mid Tenure  (11-25)",183,59.96,43.7,14.8
+Outerwear,"High Tenure (>25)",158,56.83,47.5,29.1
+Outerwear,"Low Tenure  (<=10)",75,59.43,37.3,21.3
+Outerwear,"Mid Tenure  (11-25)",91,55.91,45.1,24.2

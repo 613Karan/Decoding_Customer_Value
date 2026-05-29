@@ -1,0 +1,5 @@
+segment,customer_count,avg_spend,avg_prev_purchases,promo_rate_pct,subscription_rate_pct,total_revenue
+Other,1989,63.89,19.13,55.7,34.6,127071
+"Organic Loyal",1142,60.80,37.22,0.0,0.0,69429
+"High Freq New (Firewall)",326,59.93,5.24,39.0,22.4,19537
+"Discount Loyal (Sunset)",443,38.47,37.47,100.0,65.9,17044

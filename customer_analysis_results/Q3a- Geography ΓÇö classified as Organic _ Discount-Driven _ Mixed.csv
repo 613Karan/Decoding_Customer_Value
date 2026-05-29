@@ -1,0 +1,51 @@
+Location,customer_count,avg_spend,promo_rate_pct,discount_dep_pct,subscription_rate_pct,avg_prev_purchases,demand_type
+Missouri,81,57.91,49.4,25.9,33.3,28.15,Discount-Driven
+Hawaii,65,57.72,49.2,24.6,29.2,29.17,Discount-Driven
+Oregon,74,57.34,51.4,27.0,24.3,25.51,Discount-Driven
+Minnesota,88,56.56,44.3,27.3,29.5,26.22,Discount-Driven
+Wisconsin,75,55.95,48.0,22.7,17.3,22.96,Discount-Driven
+Florida,68,55.85,45.6,25.0,30.9,26.13,Discount-Driven
+Maryland,86,55.76,44.2,25.6,23.3,26.53,Discount-Driven
+Kentucky,79,55.72,43.0,30.4,32.9,26.42,Discount-Driven
+Delaware,86,55.33,45.3,23.3,32.6,24.63,Discount-Driven
+Alaska,72,67.60,40.3,18.1,25.0,28.10,Mixed
+Pennsylvania,74,66.57,44.6,13.5,28.4,27.42,Mixed
+"West Virginia",81,63.88,49.4,19.8,34.6,23.56,Mixed
+Nevada,87,63.38,47.1,21.8,34.5,26.03,Mixed
+Washington,73,63.33,43.8,16.4,28.8,24.70,Mixed
+"North Dakota",83,62.89,45.8,25.3,28.9,23.77,Mixed
+Utah,71,62.58,46.5,23.9,28.2,27.17,Mixed
+"New Mexico",81,61.90,44.4,25.9,27.2,26.04,Mixed
+Arkansas,79,61.11,46.8,31.6,25.3,27.06,Mixed
+Illinois,92,61.05,40.2,17.4,23.9,26.60,Mixed
+Mississippi,80,61.04,47.5,23.8,26.3,26.01,Mixed
+Massachusetts,72,60.89,48.6,16.7,31.9,23.01,Mixed
+Iowa,69,60.88,52.2,23.2,30.4,27.61,Mixed
+"North Carolina",78,60.79,44.9,16.7,28.2,24.77,Mixed
+Wyoming,71,60.69,42.3,21.1,28.2,28.24,Mixed
+"South Dakota",70,60.51,37.1,14.3,24.3,24.60,Mixed
+"New York",87,60.43,41.4,19.5,24.1,24.24,Mixed
+Ohio,77,60.38,44.2,18.2,27.3,25.14,Mixed
+Montana,96,60.25,37.5,17.7,26.0,25.27,Mixed
+Idaho,93,60.08,40.9,16.1,20.4,24.20,Mixed
+Nebraska,87,59.45,42.5,26.4,28.7,24.76,Mixed
+"New Hampshire",71,59.42,43.7,23.9,23.9,27.10,Mixed
+Alabama,89,59.11,40.4,19.1,24.7,27.45,Mixed
+California,95,59.00,42.1,22.1,30.5,24.49,Mixed
+Indiana,79,58.92,57.0,27.8,26.6,25.82,Mixed
+Georgia,79,58.80,40.5,19.0,29.1,25.08,Mixed
+"South Carolina",76,58.41,50.0,25.0,35.5,26.00,Mixed
+Oklahoma,75,58.35,48.0,18.7,33.3,22.97,Mixed
+Louisiana,84,57.71,41.7,26.2,29.8,23.44,Mixed
+Vermont,85,57.18,38.8,22.4,24.7,24.60,Mixed
+Maine,77,56.99,35.1,16.9,24.7,22.65,Mixed
+"New Jersey",67,56.75,40.3,20.9,23.9,23.76,Mixed
+Colorado,75,56.29,41.3,25.3,28.0,23.97,Mixed
+Kansas,63,54.56,23.8,15.9,12.7,23.38,Mixed
+Connecticut,78,54.18,33.3,24.4,20.5,24.00,Mixed
+Arizona,65,66.55,33.8,12.3,24.6,28.37,Organic
+Virginia,77,62.88,37.7,19.5,31.2,23.51,Organic
+Michigan,73,62.10,39.7,20.5,21.9,26.95,Organic
+Tennessee,77,61.97,36.4,20.8,18.2,25.96,Organic
+"Rhode Island",63,61.44,39.7,19.0,30.2,23.57,Organic
+Texas,77,61.19,36.4,11.7,19.5,21.48,Organic
